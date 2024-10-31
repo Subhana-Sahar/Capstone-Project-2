@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.form-select-md {
+    color: white;
+    outline: black;
+}
+
+
+.form-select-md:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.nav-item a {
+    color: white;
+}
+
+.nav-item span {
+    color: white;
+}
+
+.nav-item a:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.navbar {
+    background-image: url(../images/navbar\ bg\ image.jpeg);
+    height: 25vh;
+    background-size: 220vh;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.freshia-logo {
+    cursor: pointer;
+}
+
+.icon {
+    height: 75px;
+    padding-left: 30px;
+
+}
+
+.search-logo {
+    padding-left: 200px;
+    padding-top: 13px;
+}
+
+.search-logo:hover {
+    cursor: pointer;
+}
+
+.home-logo {
+    margin-top: -1px;
+    margin-left: -17px;
+}
+
+.cart-logo {
+    margin-top: -1px;
+    margin-right: -1px;
+}
+
+.nav-link {
+    margin-top: -9px;
+}
+
+.cart {
+    font-family: "Rubik", sans-serif;
+}
+
+.cart p {
+    font-family: "Open Sans", sans-serif;
+}
+
+.cart span {
+    font-family: "Open Sans", sans-serif;
+}
+
+.cart input {
+    width: 1080px;
+}
+
+.card-1 {
+    background-color: #685C88;
+}
+
+.card-3 {
+    background-color: #FC9CC4;
+}
+
+.create-account {
+    font-family: "Rubik", sans-serif;
+
+}
+
+.input-feilds {
+    padding-left: 430px;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 20px;
+}
+
+.input-feilds input {
+    width: 330px;
+    height: 35px;
+}
+
+.Create-btn {
+    padding-left: 430px;
+}
+
+.footer {
+    background-color: #59B210;
+    position: relative;
+    bottom: -80px
+}
+
+.footer-section {
+    margin-left: 300px;
+}
+
+.footer-section input {
+    width: 330px;
+    height: 35px;
+}
+
+.footer-detail {
+    background-image: url(../images/navbar\ bg\ image.jpeg);
+    height: 70vh;
+    background-size: 225vh;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+}
+
+
+.card {
+    background-image: url(../images/navbar\ bg\ image.jpeg);
+    height: 120vh;
+    background-size: 140vh;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.card-03 {
+    background-image: url(../images/lemon);
+    height: 200vh;
+    background-size: 60vh;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+
+.card-04 {
+    background-image: url(../images/tomato);
+    height: 200vh;
+    background-size: 60vh;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+
+.card-05 {
+    background-image: url(../images/leaves);
+    height: 200vh;
+    background-size: 132vh;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+
+.card-05 {
+    margin-top: -300px;
+    margin-left: 380px;
+
+
+}
